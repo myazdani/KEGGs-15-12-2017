@@ -110,7 +110,7 @@ LS_HE,CD_HE,UC_HE,specie,important_species
 0.33334066854272804,1.2296489113789282,-0.033009709197757545,Bacteria-Firmicutes-Bacilli-Lactobacillales-Streptococcaceae-Streptococcus-Streptococcus sanguinis,0
 -1.695013491705961,-0.12515178979758707,-0.11036942759858476,Bacteria-Fusobacteria-Fusobacteriia-Fusobacteriales-Fusobacteriaceae-Fusobacterium-Fusobacterium sp. 3_1_36A2,0
 -1.52090641924349,-1.8636447222062882,-1.0315538749063178,Bacteria-Bacteroidetes-Bacteroidia-Bacteroidales-Bacteroidaceae-Bacteroides-Bacteroides caccae,0
-1.0,1.0,1.0,1,1
+0.16111266952339262,-2.9323933769204027,-2.9323933769204027,Bacteria-Bacteroidetes-Bacteroidia-Bacteroidales-Rikenellaceae-Alistipes-Alistipes sp. JC136,1
 -0.22244658268729653,-0.27059349302110847,-0.2545324429236615,Bacteria-Firmicutes-Clostridia-Clostridiales-Clostridiales Family XI. Incertae Sedis-Finegoldia-Finegoldia magna,0
 0.15965042710332217,-0.2265682381275232,-0.07029179713689275,Bacteria-Firmicutes-Erysipelotrichi-Erysipelotrichales-Erysipelotrichaceae-none-Clostridium spiroforme,0
 0.9762636774563833,1.2385349497203715,-2.202226665268551,Bacteria-Actinobacteria-Actinobacteria-Coriobacteriales-Coriobacteriaceae-Collinsella-Collinsella stercoris,0
@@ -160,7 +160,7 @@ LS_HE,CD_HE,UC_HE,specie,important_species
 -0.037372541130693555,-0.47931784134121,-1.2842309274045653,Bacteria-Firmicutes-Clostridia-Clostridiales-Clostridiaceae-Clostridium-Clostridium sp. L2-50,0
 0.2012578689972832,1.0449540366466952,-0.3376991041938229,Bacteria-Firmicutes-Bacilli-Lactobacillales-Enterococcaceae-Enterococcus-Enterococcus faecium,0
 -0.2638768990550183,-0.5836638344806693,-1.3746889663693052,Bacteria-Firmicutes-Clostridia-Clostridiales-Lachnospiraceae-Coprococcus-Coprococcus eutactus,0
-1.0,1.0,1.0,1,1
+2.625569652334874,2.1423588219468708,3.13371774658621,Bacteria-Proteobacteria-Gammaproteobacteria-Enterobacteriales-Enterobacteriaceae-Escherichia-Escherichia sp. 4_1_40B,1
 -1.2515899529524468,-1.3110470931752345,0.11002062095165137,Bacteria-Bacteroidetes-Bacteroidia-Bacteroidales-Bacteroidaceae-Bacteroides-Bacteroides sp. D22,0
 0.5892914803105589,-0.7145232391108558,-2.592713114077174,Bacteria-Firmicutes-Clostridia-Clostridiales-Ruminococcaceae-Ethanoligenens-Ethanoligenens harbinense,0
 -0.0029886920938642357,-0.4529063151667699,-0.6604494166642542,Bacteria-Firmicutes-Clostridia-Clostridiales-Clostridiales Family XI. Incertae Sedis-Peptoniphilus-Peptoniphilus lacrimalis,0
@@ -279,7 +279,7 @@ LS_HE,CD_HE,UC_HE,specie,important_species
 -0.5420273064805208,-0.6814269350159126,0.39580054212462823,Bacteria-Firmicutes-Clostridia-Clostridiales-Clostridiaceae-Clostridium-Clostridium novyi,0
 2.080921506937538,0.0,1.9305020828405575,Bacteria-Proteobacteria-Gammaproteobacteria-Enterobacteriales-Enterobacteriaceae-Escherichia-Escherichia sp. TW09308,0
 -0.7445393917078481,-2.386913962187667,-0.5403220929310538,Bacteria-Proteobacteria-Gammaproteobacteria-Enterobacteriales-Enterobacteriaceae-Buchnera-Buchnera aphidicola,0
-1.0,1.0,1.0,1,1
+2.648581753599653,2.7543275509569067,0.0,Bacteria-Actinobacteria-Actinobacteria-Actinomycetales-Actinomycetaceae-Actinomyces-Actinomyces sp. ICM47,1
 0.010851756551808258,-1.1711175467182198,-1.897418574343128,Bacteria-Firmicutes-Clostridia-Clostridiales-Ruminococcaceae-Ruminococcus-Ruminococcus flavefaciens,0
 0.27997053081573736,-0.5424122811802201,-1.014853927933922,Bacteria-Firmicutes-Clostridia-Clostridiales-none-none-Clostridiales genomosp. BVAB3,0
 0.17920722356400093,0.17083854743237867,-0.25974044239067967,Bacteria-Firmicutes-Bacilli-Lactobacillales-Streptococcaceae-Streptococcus-Streptococcus pyogenes,0
@@ -288,8 +288,8 @@ LS_HE,CD_HE,UC_HE,specie,important_species
 2.3111853374382205,0.0,2.4611878769906173,Bacteria-Proteobacteria-Gammaproteobacteria-Enterobacteriales-Enterobacteriaceae-Escherichia-Escherichia fergusonii,0
 -0.43529687875180245,-0.6710745086751227,-0.6329102970198839,Bacteria-Firmicutes-Clostridia-Clostridiales-Clostridiales Family XI. Incertae Sedis-Peptoniphilus-Peptoniphilus harei,0
 0.8199023498249158,1.074587216641848,-1.695013491705961,Bacteria-Actinobacteria-Actinobacteria-Coriobacteriales-Coriobacteriaceae-Coriobacterium-Coriobacterium glomerans,0
-1.0,1.0,1.0,1,1
-1.0,1.0,1.0,1,1
+2.127973102114733,2.875605319474516,0.0,Bacteria-Actinobacteria-Actinobacteria-Actinomycetales-Actinomycetaceae-Actinomyces-Actinomyces viscosus,1
+2.122989909927363,2.800181287949182,0.0,Bacteria-Actinobacteria-Actinobacteria-Actinomycetales-Actinomycetaceae-Actinomyces-Actinomyces sp. oral taxon 175,1
 0.49256530070432897,-0.5887466850902432,-2.3307844140688925,Bacteria-Synergistetes-Synergistia-Synergistales-Synergistaceae-Pyramidobacter-Pyramidobacter piscolens,0
 -0.32229406726641574,-0.15876283720005258,1.7827975660514706,Bacteria-Firmicutes-Clostridia-Clostridiales-Clostridiaceae-Clostridium-Clostridium butyricum,0
 0.1725014555660353,-0.537569111036294,-0.6821213125253485,Bacteria-Firmicutes-Clostridia-Clostridiales-Clostridiaceae-Clostridium-Clostridium thermocellum,0
@@ -297,7 +297,7 @@ LS_HE,CD_HE,UC_HE,specie,important_species
 1.2873945095796666,0.0,0.0,Bacteria-Proteobacteria-Gammaproteobacteria-Enterobacteriales-Enterobacteriaceae-Providencia-Providencia stuartii,0
 0.6552567503195846,-0.28632961344968233,-2.2135853108973818,Bacteria-Firmicutes-Negativicutes-Selenomonadales-Veillonellaceae-Mitsuokella-Mitsuokella multacida,0
 0.17750267857034563,0.01510062553796961,-0.3667450379550557,Bacteria-Firmicutes-Clostridia-Clostridiales-none-none-Clostridiales bacterium 1_7_47FAA,0
-1.0,1.0,1.0,1,1
+2.2090883033980067,0.0,2.857097964578645,Bacteria-Actinobacteria-Actinobacteria-Actinomycetales-Microbacteriaceae-Microbacterium-Microbacterium laevaniformans,1
 0.06606820998843657,-0.4014450628297228,-0.46227854075091074,Bacteria-Firmicutes-Clostridia-Clostridiales-Eubacteriaceae-Anaerofustis-Anaerofustis stercorihominis,0
 0.12093343015937506,0.4259708330789473,-0.7410720176852366,Bacteria-Firmicutes-Bacilli-Lactobacillales-Streptococcaceae-Streptococcus-Streptococcus gallolyticus,0
 0.6349938769012073,1.323438762491202,-0.16759863306185344,Bacteria-Actinobacteria-Actinobacteria-Coriobacteriales-Coriobacteriaceae-Atopobium-Atopobium parvulum,0
@@ -382,7 +382,7 @@ LS_HE,CD_HE,UC_HE,specie,important_species
 0.06369699035247334,0.858618187214328,-0.5365447338672997,Bacteria-Firmicutes-Clostridia-Clostridiales-Clostridiaceae-Clostridium-Clostridium sp. HGF2,0
 0.5881119851103456,-1.808356823628223,-1.808356823628223,Bacteria-Firmicutes-Clostridia-Clostridiales-Heliobacteriaceae-Heliobacterium-Heliobacterium modesticaldum,0
 -1.030349179539511,-3.4552382315073373,0.3689882968252248,Bacteria-Bacteroidetes-Bacteroidia-Bacteroidales-Bacteroidaceae-Bacteroides-Bacteroides clarus,0
-1.0,1.0,1.0,1,1
+2.0281459120781533,2.4625979490769483,0.0,Bacteria-Actinobacteria-Actinobacteria-Actinomycetales-Actinomycetaceae-Actinomyces-Actinomyces sp. oral taxon 171,1
 0.044283093111956676,1.9988849527876997,0.058166795041328,Bacteria-Firmicutes-Negativicutes-Selenomonadales-Veillonellaceae-Veillonella-Veillonella sp. 3_1_44,0
 -0.2349727895949634,-0.1569557558975559,-0.3102182366392412,Bacteria-Fusobacteria-Fusobacteriia-Fusobacteriales-Fusobacteriaceae-Fusobacterium-Fusobacterium gonidiaformans,0
 0.16866014622077258,1.0606407359430712,0.7448473614471318,Bacteria-Firmicutes-Erysipelotrichi-Erysipelotrichales-Erysipelotrichaceae-Coprobacillus-Coprobacillus sp. D7,0
@@ -446,7 +446,7 @@ LS_HE,CD_HE,UC_HE,specie,important_species
 0.5350009594166969,-1.8223794041377472,-1.8223794041377472,Bacteria-Firmicutes-Negativicutes-Selenomonadales-Veillonellaceae-Centipeda-Centipeda periodontii,0
 1.7493145963527368,0.0,0.0,Bacteria-Proteobacteria-Deltaproteobacteria-Desulfovibrionales-Desulfovibrionaceae-Desulfovibrio-Desulfovibrio sp. 3_1_syn3,0
 -0.23147530327104623,-2.4195084601497294,-0.9849496197610259,Bacteria-Bacteroidetes-Bacteroidia-Bacteroidales-Prevotellaceae-Prevotella-Prevotella buccae,0
-1.0,1.0,1.0,1,1
+-1.195513543663263,-3.0588093551030844,-1.1283072722625267,Bacteria-Bacteroidetes-Bacteroidia-Bacteroidales-Prevotellaceae-Prevotella-Prevotella buccalis,1
 0.0,0.0,0.0,Bacteria-Proteobacteria-Alphaproteobacteria-Rhodospirillales-Acetobacteraceae-Gluconacetobacter-Gluconacetobacter xylinus,0
 -0.10357724198816225,-1.7305238671170955,-0.31116832288722074,Bacteria-Firmicutes-Clostridia-Thermoanaerobacterales-Thermoanaerobacteraceae-Thermoanaerobacter-Thermoanaerobacter mathranii,0
 0.07255245382932062,-0.08672919737058929,-1.9095953767068181,Bacteria-Firmicutes-Clostridia-Clostridiales-Eubacteriaceae-Acetobacterium-Acetobacterium woodii,0
@@ -836,7 +836,7 @@ LS_HE,CD_HE,UC_HE,specie,important_species
 -0.04722482793297995,-1.4539198037770589,-0.3665536724906555,Bacteria-Firmicutes-Bacilli-Bacillales-Planococcaceae-Solibacillus-Solibacillus silvestris,0
 1.7373010885039533,2.8623410677891923,1.0527943116706169,Bacteria-Actinobacteria-Actinobacteria-Actinomycetales-Actinomycetaceae-Actinomyces-Actinomyces sp. oral taxon 181,0
 1.699127895091643,0.0,0.0,Bacteria-Proteobacteria-Deltaproteobacteria-Desulfuromonadales-Geobacteraceae-Geobacter-Geobacter sp. M18,0
-1.0,1.0,1.0,1,1
+-0.9687366030175081,-2.4689231560708627,-2.4689231560708627,Bacteria-Bacteroidetes-Bacteroidia-Bacteroidales-Prevotellaceae-Prevotella-Prevotella salivae,1
 -1.4850123367901575,-1.4850123367901575,-1.4850123367901575,Bacteria-Tenericutes-Mollicutes-Mycoplasmatales-Mycoplasmataceae-Mycoplasma-Mycoplasma bovis,0
 -0.057139215806292824,-1.3445337253859595,0.0590669349358092,Bacteria-Firmicutes-Bacilli-Bacillales-Planococcaceae-Planococcus-Planococcus donghaensis,0
 0.0,0.0,0.0,Bacteria-Tenericutes-Mollicutes-Mycoplasmatales-Mycoplasmataceae-Mycoplasma-Mycoplasma synoviae,0
@@ -2253,7 +2253,7 @@ LS_HE,CD_HE,UC_HE,specie,important_species
 0.0,0.0,0.0,Eukaryota-Chlorophyta-Pedinophyceae-Pedinomonadales-Pedinomonadaceae-Pedinomonas-Pedinomonas minor,0
 0.0,0.0,0.0,Bacteria-Proteobacteria-Betaproteobacteria-Neisseriales-Neisseriaceae-Neisseria-Neisseria sp. oral taxon 014,0
 0.0,0.0,0.0,Bacteria-Proteobacteria-Gammaproteobacteria-Pseudomonadales-Pseudomonadaceae-Pseudomonas-Pseudomonas fragi,0
-1.0,1.0,1.0,1,1
+0.0,0.0,2.3037100787458322,Bacteria-Proteobacteria-Gammaproteobacteria-Enterobacteriales-Enterobacteriaceae-Klebsiella-Klebsiella sp. MS 92-3,1
 0.0,0.0,0.0,Bacteria-Firmicutes-Bacilli-Lactobacillales-Streptococcaceae-Streptococcus-Streptococcus sp. F0441,0
 0.0,0.0,0.0,Bacteria-Proteobacteria-Gammaproteobacteria-Vibrionales-Vibrionaceae-Vibrio-Vibrio splendidus,0
 0.0,0.0,0.0,Bacteria-Cyanobacteria-none-Chroococcales-none-Cyanobium-Cyanobium gracile,0
